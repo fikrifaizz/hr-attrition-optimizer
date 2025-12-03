@@ -1,0 +1,28 @@
+# Data Manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Stats
+scikit-learn
+xgboost
+imbalanced-learn
+lifelines
+
+# Explainability
+shap
+
+# Dashboard
+streamlit
+
+# Utilities
+joblib
+python-dotenv
+black
+jupyter
+ipykernel
+kaggle
